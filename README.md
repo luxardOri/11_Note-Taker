@@ -14,15 +14,18 @@ This is an application called Note Taker that can be used to write and save note
     
 ## Installation
 
-Will include later
+No installation needed to use this website, please see [Usage](#usage) for deploy link.
 
 ## Usage
 
-Walkthrough Video: 
+Need to access link below to use application:  
+https://agile-dusk-12061.herokuapp.com  
 
 ## Credits
 
-will include later
+Heruko deployment doc: https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true#deploy-the-app  
+Referenced back to activites  
+Tutoring help (Erik Hirsch)
 
 ## License
         
@@ -50,10 +53,6 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-
-## Tests
-
-will include later
 
 ## Questions
 
